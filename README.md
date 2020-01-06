@@ -5,9 +5,9 @@
 ### Author: Tammy Ip
 
 ### Links and Resources
-* [submission on PR]
+* [submission on PR] (https://github.com/tammyip-401-advanced-javascript/lab-00/pull/1)
 * [travis] N/A for this class
-* [front-end] 
+* [front-end] (https://iptmh-lab-00.herokuapp.com/)
 
 #### Documemtation
 * [jsdoc]
